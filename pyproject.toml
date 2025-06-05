@@ -1,0 +1,10 @@
+[tool.uv.sources]
+json_editor = { path = "src/json_editor.py" }
+
+[tool.uv.dependencies]
+textual = ">=0.30.0"
+orjson = ">=3.10.0"
+typer = ">=0.10.0"
+
+[tool.uv.scripts]
+json_editor = "json_editor.cli:main"
