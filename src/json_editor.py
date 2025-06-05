@@ -13,7 +13,7 @@ from textual.widgets._button import Button  # botón simple
 from typing import Any
 import orjson
 
-from model import KVPair
+from .model import KVPair
 
 # Output directory
 OUTPUT_DIR = Path("output")
