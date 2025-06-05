@@ -1,6 +1,7 @@
 # Project Astra
 
 A modern Text User Interface (TUI) JSON editor built with Python. Create and edit JSON files interactively with a beautiful terminal interface.
+
 ![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-green)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
